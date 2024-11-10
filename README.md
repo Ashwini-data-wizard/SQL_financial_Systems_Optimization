@@ -32,7 +32,7 @@ To achieve the project objectives, I undertook the following steps:
 ### 6. Scheduled Jobs:
 - Used SQL Server Agent to automate the daily execution of key stored procedures, simulating a real-world financial environment where daily updates are essential.
 
-##Result
+## Result
 ### 1. Automated Key Processes:
 - By automating approvals for high-value transactions and forecasting budgets, the system reduced the hypothetical workload for finance managers, enabling a focus on analysis rather than manual entry.
 ### 2. Enhanced Compliance and Transparency:
